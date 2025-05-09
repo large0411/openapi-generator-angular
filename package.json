@@ -1,0 +1,12 @@
+{
+  "name": "flow-generator",
+  "version": "1.0.0",
+  "description": "Standalone Flow API Generator",
+  "main": "generate-api.js",
+  "scripts": {
+    "generate": "node generate-api.js"
+  },
+  "dependencies": {
+    "@openapitools/openapi-generator-cli": "^2.18.4"
+  }
+}
